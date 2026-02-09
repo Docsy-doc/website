@@ -23,13 +23,13 @@ const steps = [
   },
   {
     icon: CheckCircle,
-    title: "Review & Edit",
-    description: "Make any changes you need. You have full control over the output.",
+    title: "Review & Sign",
+    description: "Doctors review, edit, approve and digitally sign the summary.",
   },
   {
     icon: Printer,
-    title: "Print or Export",
-    description: "Download, print, or share the finalized discharge summary.",
+    title: "Flexible Delivery",
+    description: "Export, print, push to EMR, or send to patient's WhatsApp.",
   },
 ];
 

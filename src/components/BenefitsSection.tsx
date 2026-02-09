@@ -3,7 +3,7 @@ import { Clock, Gauge, Heart, CheckCheck, IndianRupee } from "lucide-react";
 const benefits = [
   {
     icon: Clock,
-    value: "15–30 min",
+    value: "30–50 min",
     label: "Saved per discharge",
     description: "Reduce documentation time dramatically.",
   },

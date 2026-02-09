@@ -26,7 +26,7 @@ const ContactSection = () => {
                 className="text-base px-8 font-semibold"
                 asChild
               >
-                <a href="mailto:demo@dischargex.in">
+                <a href="mailto:pruthvisreddy8861@gmail.com">
                   Book a Free Demo
                   <ArrowRight size={18} className="ml-2" />
                 </a>
@@ -43,10 +43,10 @@ const ContactSection = () => {
               <div>
                 <p className="text-sm text-muted-foreground">Email</p>
                 <a
-                  href="mailto:demo@dischargex.in"
+                  href="mailto:pruthvisreddy8861@gmail.com"
                   className="text-sm font-medium text-foreground hover:text-primary transition-colors"
                 >
-                  demo@dischargex.in
+                  pruthvisreddy8861@gmail.com
                 </a>
               </div>
             </div>
@@ -56,15 +56,14 @@ const ContactSection = () => {
                 <Globe size={18} className="text-primary" />
               </div>
               <div>
-                <p className="text-sm text-muted-foreground">Website</p>
+                <p className="text-sm text-muted-foreground">Phone</p>
                 <a
-                  href="https://dischargex.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="tel:+918861412936"
                   className="text-sm font-medium text-foreground hover:text-primary transition-colors"
                 >
-                  dischargex.in
+                  +91 8861412936
                 </a>
+
               </div>
             </div>
 
@@ -74,7 +73,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Location</p>
-                <p className="text-sm font-medium text-foreground">India</p>
+                <p className="text-sm font-medium text-foreground">Bengaluru, Karnataka, India</p>
               </div>
             </div>
           </div>

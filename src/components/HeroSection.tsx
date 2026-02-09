@@ -26,21 +26,16 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 lg:px-8 relative z-10 pt-24 pb-16">
         <div className="max-w-2xl">
           {/* India's 1st badge */}
-          <div className="inline-flex items-center gap-2 rounded-full bg-primary/20 border border-primary/30 px-4 py-1.5 mb-4 animate-fade-in">
-            <Mic size={14} className="text-primary" />
-            <span className="text-sm font-medium text-primary">
-              India's 1st Voice-Enabled Discharge Generator Platform
+          {/* India's 1st badge */}
+          <div className="inline-flex items-center gap-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 px-6 py-2 mb-8 animate-fade-in shadow-lg">
+            <Mic size={18} className="text-primary" />
+            <span className="text-base md:text-lg font-bold text-white tracking-wide">
+              India's 1st Voice-Enabled Discharge Summary Generator
             </span>
           </div>
 
-          {/* Location badge */}
-          <div className="flex items-center gap-1.5 mb-6 animate-fade-in" style={{ animationDelay: "0.05s" }}>
-            <MapPin size={14} className="text-background/60" />
-            <span className="text-sm text-background/60">Bengaluru, India</span>
-          </div>
-
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight mb-6 text-background animate-fade-in-up">
-            From Voice to Discharge
+            From Voice to Discharge Summary
             <br />
             <span className="text-primary">In Minutes.</span>
           </h1>

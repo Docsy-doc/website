@@ -24,11 +24,7 @@ const features = [
     title: "Fully Editable",
     description: "AI generates summaries that doctors can review, edit, and finalize with full control.",
   },
-  {
-    icon: Zap,
-    title: "Instant Generation",
-    description: "Complete discharge summaries ready in under 2 minutes, not 30.",
-  },
+
   {
     icon: Smartphone,
     title: "Any Device",

@@ -36,8 +36,9 @@ const Footer = () => {
             ))}
           </div>
 
-          <p className="text-sm text-muted-foreground">
-            © {currentYear} DischargeX. All rights reserved.
+          <p className="text-sm text-muted-foreground flex flex-col md:flex-row gap-2 md:gap-6 text-center md:text-right">
+            <span>© {currentYear} DischargeX. All rights reserved.</span>
+            <a href="mailto:pruthvisreddy8861@gmail.com" className="hover:text-primary transition-colors">pruthvisreddy8861@gmail.com</a>
           </p>
         </div>
       </div>
