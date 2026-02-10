@@ -32,8 +32,8 @@ const features = [
   },
   {
     icon: Shield,
-    title: "No EMR Replacement",
-    description: "DischargeX works alongside your existing hospital systems. No disruption.",
+    title: "No EMR Required",
+    description: "Works perfectly for paper-based hospitals. Have an EMR? We integrate with that too.",
   },
   {
     icon: UserCheck,

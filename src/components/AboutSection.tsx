@@ -47,7 +47,7 @@ const AboutSection = () => {
               </div>
               <h3 className="font-semibold text-foreground mb-2">Our Approach</h3>
               <p className="text-sm text-muted-foreground leading-relaxed">
-                Voice-first AI that works alongside existing hospital systems.
+                Voice-first AI that works as a standalone app or alongside existing hospital systems.
                 No disruption, no steep learning curve — just faster discharges.
               </p>
             </div>
