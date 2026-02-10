@@ -41,7 +41,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-background/80 mb-8 max-w-lg animate-fade-in-up" style={{ animationDelay: "0.15s" }}>
-            Complete discharge summaries ready in under 10 minutes, not 30–60 min.
+            Experience fast, AI-powered discharge summary generation. Complete summaries ready in under 10 minutes, not 30–60 min.
             Reduce documentation time dramatically.
           </p>
 

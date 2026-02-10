@@ -1,0 +1,31 @@
+# DischargeX: AI-Powered Discharge Summary Generator
+
+## Overview
+DischargeX is India's first voice-enabled AI platform designed to automate hospital discharge summaries. It helps doctors create structured, professional discharge summaries in under 10 minutes, saving 30-50 minutes per patient.
+
+## Key Features
+- **Voice-to-Text**: specialized medical speech recognition that understands Indian accents.
+- **AI Summary Generation**: instantly converts dictated notes into structured formats (History, Diagnosis, Treatment, etc.).
+- **Multi-Department Support**: Works for Medicine, Surgery, Pediatrics, Orthopedics, OBG, and more.
+- **Editable & Flexible**: Doctors can review, edit, approve, and digitally sign summaries.
+- **Integration**: Compatible with existing EMR/EHR systems; supports PDF export and WhatsApp sharing.
+- **Security**: HIPAA compliant and data privacy focused.
+
+## Benefits
+- **Time Savings**: Reduces documentation time from 40+ mins to <10 mins.
+- **Reduced Burnout**: Eliminates manual typing and copy-pasting errors.
+- **Standardization**: Ensures consistent, high-quality documentation across all departments.
+
+## Target Audience
+- Hospitals (Small, Mid-sized, Multi-specialty)
+- Individual Practitioners / Clinics
+- Medical Residents and Junior Doctors
+
+## Usage
+Doctors open the web app/native app, select a department, dictate patient details, and the AI generates the summary. The doctor then reviews, signs, and prints/shares it.
+
+## Contact
+- **Website**: https://dischargex.in
+- **Email**: pruthvisreddy8861@gmail.com
+- **Phone**: +91 8861412936
+- **Location**: Bengaluru, Karnataka, India

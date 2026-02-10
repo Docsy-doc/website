@@ -54,7 +54,7 @@ const FeaturesSection = () => {
             One Platform. All Departments.
           </h2>
           <p className="text-muted-foreground text-lg">
-            Everything hospitals need to automate discharge documentation.
+            Everything hospitals need for automated discharge summary generation.
           </p>
         </div>
 
